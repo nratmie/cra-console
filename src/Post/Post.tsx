@@ -1,7 +1,7 @@
 export const Post = () => {
     return (
         <div>
-            <h2>Post22</h2>
+            <h2>Post223</h2>
         </div>
     )
 }
