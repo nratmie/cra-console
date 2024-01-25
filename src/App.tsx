@@ -19,6 +19,9 @@ function App() {
       <div>
         popup branch commit 1
       </div>
+      <div>
+        popup branch commit 1
+      </div>
     </>
   );
 }
